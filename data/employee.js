@@ -1,0 +1,38 @@
+export const empList = [
+  {
+    _id: '9727345',
+    name: 'Mahmudul Elahi',
+    email: 'mahmudul.elahi@gmail.com',
+    age: 22,
+    birth: '1996-05-12',
+    gender: 'Male',
+    skills: ['HTML', 'CSS'],
+  },
+  {
+    _id: '9727346',
+    name: 'Mainul Islam Emon',
+    email: 'emon@gmail.com',
+    age: 20,
+    birth: '1996-05-12',
+    gender: 'Male',
+    skills: ['HTML', 'JAVASCRIPT'],
+  },
+  {
+    _id: '9727347',
+    name: 'Richard Malaker',
+    email: 'richard.malaker@gmail.com',
+    age: 22,
+    birth: '1996-05-12',
+    gender: 'Male',
+    skills: ['HTML', 'JAVASCRIPT'],
+  },
+  {
+    _id: '9727348',
+    name: 'Tamanna Akter',
+    email: 'tamanna@gmail.com',
+    age: 22,
+    birth: '1996-05-12',
+    gender: 'Female',
+    skills: ['HTML', 'JAVASCRIPT', 'CSS'],
+  },
+]
